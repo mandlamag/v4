@@ -1,38 +1,33 @@
 module.exports = {
-  siteTitle: 'Brittany Chiang | Software Engineer',
-  siteDescription:
-    'Brittany Chiang is a software engineer based in Boston, MA who specializes in developing (and occasionally designing) exceptional, high-quality websites and applications.',
+  siteTitle: 'raiworks | Blockchain Intelligence Services',
+  siteDescription: 'raiworks focuses on building the right mix ',
   siteKeywords:
-    'Brittany Chiang, Brittany, Chiang, bchiang7, software engineer, front-end engineer, web developer, javascript, northeastern',
-  siteUrl: 'https://brittanychiang.com',
+    'We leverage our vast machine intelligence platform, intelligence analysts, and global network of executives and startups empower people to articulate compelling answers to difficult questions — about growth, about the competition, and about technology. ',
+  siteUrl: 'https://raiworks.com',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Brittany Chiang',
-  location: 'Boston, MA',
-  email: 'brittany.chiang@gmail.com',
-  github: 'https://github.com/bchiang7',
-  twitterHandle: '@bchiang7',
+  googleAnalyticsID: '',
+  googleVerification: '',
+  name: 'raiworks',
+  location: 'Sandton, SA',
+  email: 'hello@raiworks.com',
+  github: 'https://github.com/raiworks',
+  twitterHandle: '@raiworks',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/raiworks',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      url: 'https://www.linkedin.com/in/raiworks',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/raiworks',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/raiworks',
     },
   ],
 
@@ -42,11 +37,11 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
+      name: 'Services',
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Portfolio',
       url: '/#projects',
     },
     {

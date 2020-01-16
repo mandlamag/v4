@@ -123,24 +123,8 @@ const Footer = () => {
         </StyledSocialList>
       </StyledSocial>
       <StyledMetadata tabindex="-1">
-        <StyledGitHubLink
-          href="https://github.com/bchiang7/v4"
-          target="_blank"
-          rel="nofollow noopener noreferrer">
-          <div>Designed &amp; Built by Brittany Chiang</div>
-
-          {githubInfo.stars && githubInfo.forks && (
-            <StyledGitHubInfo>
-              <span>
-                <IconStar />
-                <span>{githubInfo.stars}</span>
-              </span>
-              <span>
-                <IconFork />
-                <span>{githubInfo.forks}</span>
-              </span>
-            </StyledGitHubInfo>
-          )}
+        <StyledGitHubLink href="#" target="_blank" rel="nofollow noopener noreferrer">
+          <div>raiworks</div>
         </StyledGitHubLink>
       </StyledMetadata>
     </StyledContainer>
