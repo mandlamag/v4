@@ -5,4 +5,4 @@ subtitle: 'was once IMAGINED'
 contactText: 'partner with us'
 ---
 
-I'm a software engineer based in Johannesburg, South Africa specializing in building software products for web. I'm spent ungodly amounts for hours researching and building decentralised systems.
+Raiworks brings blockchain to business. We are the ideation and engineering leader at the forefront of the enterprise blockchain ecosystem.

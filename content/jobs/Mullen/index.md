@@ -1,12 +1,12 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
+title: 'Smart Systems & Data Storage'
 company: 'MullenLowe'
 location: 'Boston, MA'
-range: 'July - Dec 2015'
+range: 'July - Dec 2019'
 url: 'https://www.upstatement.com/'
 ---
 
-- Developed and maintained code for in-house and client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Manually tested sites in various browsers and mobile devices to ensure cross-browser compatibility and responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Rather than relying on one central cloud server to identify and connect with every single device, blockchain technology can provide secure mesh networks, in which various devices will interconnect in a reliable way while avoiding threats such as device spoofing and impersonation
+- Blockchain-powered services can be used to establish immutable evidence chains useful not only for supply chain management, but also for the identification of individuals and individual assets
+- In this case, encrypted public ledgers serve as data storage for registries of personal data, such as medical documentation, marriage and education certificates, and create a digital thumbprint of them.

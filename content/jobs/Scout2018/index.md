@@ -1,12 +1,12 @@
 ---
 date: '2018-04-01'
-title: 'Studio Developer'
-company: 'Scout'
-location: 'Northeastern University'
+title: 'Remittances & Smart Contracts'
+company: 'Bank'
+location: 'Southern Africa'
 range: 'Jan - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://#'
 ---
 
-- Worked with a team of three designers to build a marketing website and e-commerce platform for [blistabloc](https://blistabloc.com), an ambitious startup originating from Northeastern
-- Helped solidify a brand direction for blistabloc that spans both packaging and web
-- Interfaced with clients on a weekly basis, providing technological expertise
+- Not only can insurance companies profit from quicker payment processing, but they can also benefit from blockchain-based smart contracts. These make payments conditional, automatize and streamline them and thus make the process more transparent and irrefutable in effect
+- As a rule, a payment is only executed in case the pre-approved requirements or conditions are met.
+- This can be applied to automated testing and payout calculation of claim and premium processing and the calculation and processing of micro-insurances

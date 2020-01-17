@@ -1,18 +1,13 @@
 ---
-title: 'About Me'
-avatar: './me.jpg'
+title: 'About Us'
+avatar: './block.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - Express
-  - NativeScript
+  - Blockhain Ideation
+  - Solution Design
+  - Market Research & Analytics
+  - Smart Contract Design
+  - Distributed Application Design.
+  - Key Custody Solution Design
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA who enjoys building things that live on the internet. I develop exceptional websites and web apps that provide intuitive, pixel-perfect user interfaces with efficient and modern backends.
-
-Shortly after graduating from [Northeastern University](https://www.ccis.northeastern.edu/), I joined the engineering team at [Upstatement](https://www.upstatement.com/) where I work on a wide variety of interesting and meaningful projects on a daily basis.
-
-Here are a few technologies I've been working with recently:
+We partner to ideate, develop, maintain and evaluate blockchain and cryptocurrency related products and web services. We provide long-term assistance and advice on related technological and operational matters to our partners worldwide. You will find the full spectrum of blockchain technology skillset in one company, as our teams operate in multiple disciplines. We also actively develop financial trading frameworks and web services operating on top of the blockchain, whilst creating beautiful and intuitive UI/UX.

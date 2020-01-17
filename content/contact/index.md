@@ -2,4 +2,4 @@
 title: 'Get In Touch'
 ---
 
-Although I'm not currently looking for freelance opportunities, my inbox is always open. Whether for a potential project or just to say hi, I'll try my best to answer your email!
+We offer in-house and external training and teaching seminars, workshops, talks, as well as materials on the Blockchain technology and related fields of application, which will provide you with in depth knowledge of the intricate ecosystem and all its facets.

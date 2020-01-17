@@ -1,14 +1,14 @@
 ---
-date: '2017-12-01'
-title: 'Apple Music Embeddable Web Player Widget'
+date: '201*-12-01'
+title: 'SA Taxi Explores blockchain'
 github: ''
-external: 'https://tools.applemusic.com/en-us'
+external: 'https://#'
 tech:
-  - MusicKit.js
-  - JS
-  - SCSS
-company: 'Apple'
+  - ideation
+  - Position paper
+  - Solution design
+company: 'SA Taxis'
 showInProjects: true
 ---
 
-Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging [MusicKit.js](https://developer.apple.com/documentation/musickitjs). Read more about this project on [9to5Mac](https://9to5mac.com/2018/06/03/apple-music-embeddable-web-player-listen-browser/).
+We are the first blockchain service provider to focus solely on the taxi industry and understand what you need as a business owner. Whether it is payments or identity, we are able to assist.

@@ -1,14 +1,14 @@
 ---
 date: '2018-05-01'
-title: 'blistabloc'
+title: 'Solidity Fund launches crypto fund'
 github: ''
-external: 'https://blistabloc.com/'
+external: 'https://solidityfund.co.za'
 tech:
-  - WordPress
-  - Timber
-  - WooCommerce
-company: 'Scout'
+  - Protocol
+  - Token
+  - Fund Raising
+company: 'Solidity Fund'
 showInProjects: true
 ---
 
-Custom WordPress theme and e-commerce site built with Timber and WooCommerce for blistabloc, a start-up selling the only reactive shoe insert that prevents blisters from forming.
+Crypto Fund Research leverages more than a decade of alternative investment research experience to conduct its own cutting edge research and collaborates with hundreds of crypto funds – the result is the largest and most comprehensive database of crypto hedge funds and venture capital funds.

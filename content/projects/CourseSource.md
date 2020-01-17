@@ -4,7 +4,7 @@ title: 'CourseSource'
 github: 'https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project'
 external: ''
 tech:
-  - Angular
+  -
   - Node
   - Express
   - MongoDB

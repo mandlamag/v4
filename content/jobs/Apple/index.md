@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - Dec 2017'
-url: 'https://www.apple.com/music/'
+date: '2019-02-01'
+title: 'Payments & Transactions'
+company: 'Bank'
+location: 'Sandton, SA'
+range: 'July - Dec 2019'
+url: 'https://www.bank.com/'
 ---
 
-- Developed and shipped highly interactive web applications for Apple Music using Ember.js
-- Built and shipped the Apple Music Extension within Facebook Messenger leveraging third-party and internal APIs
-- Architected and implemented the front-end of Apple Music's embeddable web player widget, which lets users log in and listen to full songs in the browser
-- Contributed extensively to MusicKit.js, a JavaScript framework that allows developers to add an Apple Music player to their web apps
+- Sending, receiving and the verification of funds on an international level is usually time and cost consuming
+- Post-trade processing must be executed quickly as capital markets are volatile, and handled in a secure and effective way
+- Decentralized blockchain-based payment processors allow instant financial transactions, as they do not depend on third party correspondents and operate directly between the contractual parties
+- Additionally, smart contracts can replace usually cost-intensive customer reward programmes, such as gift cards, ticketing and voucher prepaid channels

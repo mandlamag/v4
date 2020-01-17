@@ -1,12 +1,12 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'Ethereum Keep Clone'
+github: 'https://github.com/'
+external: 'https://ethereum.org'
 tech:
-  - Vue
-  - Firebase
+  - Smart Contracts
+  - Ethereum
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+Ethereum is an open source, public, blockchain-based distributed computing platform and operating system featuring smart contract functionality. It supports a modified version of Nakamoto consensus via transaction-based state transitions.
